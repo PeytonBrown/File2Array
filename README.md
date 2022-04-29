@@ -1,6 +1,6 @@
 # File2Array
 
-Converts any file to an array or bytes. Useful for embedding resources directly into an application.
+Converts any file to an array of bytes. Useful for embedding resources directly into an application.
 
 # Usage
 
